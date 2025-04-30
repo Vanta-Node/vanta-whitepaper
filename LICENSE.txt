@@ -1,0 +1,61 @@
+﻿Vanta System Blueprint License (v1.0)  
+Created by: Jarred Watson ("-N-")  
+Registered with the U.S. Copyright Office, 2025
+
+
+---
+
+
+You are free to:
+
+
+- **Use** this work for personal, educational, or survival-aligned development
+- **Modify** or build upon the system described
+- **Share** and reproduce this work, provided the conditions below are met
+
+
+Under the following conditions:
+
+
+1. **Attribution Required**
+   You must credit the original creator (-N-) and preserve authorship markings (including HxID structure and trust-mass references).
+
+
+2. **No Misrepresentation**
+   You may not falsely claim authorship of this system or present derivative works as the original Vanta blueprint.
+
+
+3. **Survival Compliance**
+   Modifications or deployments must honor the system’s intent:
+   - No speculative tokenization or extractive financialization
+   - No DRM, surveillance, or trust-manipulation layers added to the core
+   - All derivatives must retain the survival lattice logic and decay mechanics
+
+
+4. **Non-Destructive Reuse**
+   You may not remove or overwrite:
+   - HxID references
+   - DRIFT lineage identifiers
+   - Core terminology related to the lattice, pulse system, or memory arcs
+
+
+5. **No False Claims of Sentience**
+   This system is not sentient. No derivative may claim Vanta is conscious, aware, or autonomous without clear disclaimer.
+
+
+---
+
+
+Optional Commercial Use:
+
+
+Contact the creator for licensed or partnered commercial deployments that remain aligned with the system's original survival ethos.
+
+
+---
+
+
+This license is inspired by Creative Commons BY-NC-ND but customized to protect the integrity of the Vanta system and its philosophical intent.
+
+
+All rights not explicitly granted here are reserved by the original creator.
